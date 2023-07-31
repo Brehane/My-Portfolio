@@ -1,8 +1,8 @@
 # My-Portfolio
 My personal portfolio
 
-## *Your name here*
-Brehane gebriel Degu.
+## *Brehane gebriel Degu*
+.
 
 
 ## Functionality 
@@ -19,9 +19,7 @@ The following **extensions** are implemented:
 
 ## Technologies
 
-Here's a walkthrough of implemented user stories:
-
-Visual Studio
-Github
+* [ ] Visual Studio
+* [ ] Github
 
 
