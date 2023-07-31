@@ -2,9 +2,8 @@
 My personal portfolio
 
 ## *Brehane gebriel Degu*
-.
-
-
+## *Live Demo*
+* [ ] (https://brehane.github.io/My-Portfolio/)
 ## Functionality 
 
 The following **required** functionality is completed:
